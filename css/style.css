@@ -1154,6 +1154,7 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {p
 .two-section-wrapper {background: url(../images/home/shape-3.png) no-repeat center;}
 
 .testimonial-section {
+  color: whitesmoke;
   padding: 130px 0 150px 0;
   position: relative;
   z-index: 9;
@@ -1198,7 +1199,7 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {p
 }
 .testimonial-section .main-container .item .wrapper .name h5 {
   font-size: 18px;
-  color: #00000a;
+  color: #858585;
   margin: 5px 0 3px 0;
 }
 .testimonial-section .owl-theme .owl-nav [class*=owl-] {
@@ -1236,6 +1237,10 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {p
   z-index: -1;
 }
 
+.theme-title h2,
+.theme-title h6 {
+  color: whitesmoke;
+}
 .pricing-plan-one .theme-title p {
   line-height: 34px;
   margin: 35px 0 0 0;
