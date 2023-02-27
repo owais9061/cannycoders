@@ -1237,6 +1237,10 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {p
   z-index: -1;
 }
 
+.theme-shape-four .main-container {
+  background-color: black;
+}
+
 .theme-title h2,
 .theme-title h6 {
   color: whitesmoke;
